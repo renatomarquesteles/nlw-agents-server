@@ -1,0 +1,6 @@
+node_modules
+.env
+
+# Editor configurations
+.cursor/
+.vscode/
