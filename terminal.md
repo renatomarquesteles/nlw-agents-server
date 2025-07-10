@@ -102,3 +102,12 @@ npx drizzle-kit studio
 ```
 npm i drizzle-seed -D
 ```
+
+- Scripts related to the database
+
+```
+npm run db:generate
+npm run db:migrate
+npm run db:studio
+npm run db:seed
+```
