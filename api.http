@@ -38,3 +38,13 @@ Content-Type: application/json
 {
   "question": "What is the capital of France?"
 }
+
+###
+
+# Create question
+POST {{baseUrl}}/rooms/39f3f265-1463-4172-a6f0-f66d25266f7c/questions
+Content-Type: application/json
+
+{
+  "question": "Qual seu nome?"
+}

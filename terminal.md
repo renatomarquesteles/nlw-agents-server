@@ -111,3 +111,15 @@ npm run db:migrate
 npm run db:studio
 npm run db:seed
 ```
+
+- Installs Fastify plugin to handle audio files
+
+```
+npm i @fastify/multipart
+```
+
+- Google Gemini API
+
+```
+npm i @google/genai
+```

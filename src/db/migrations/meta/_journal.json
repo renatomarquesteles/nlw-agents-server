@@ -15,6 +15,13 @@
       "when": 1752123994219,
       "tag": "0001_blue_satana",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752273154221,
+      "tag": "0002_massive_jasper_sitwell",
+      "breakpoints": true
     }
   ]
 }
